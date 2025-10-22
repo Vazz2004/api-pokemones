@@ -1,33 +1,37 @@
+🧩 Pokémon CRUD API – Proyecto Personal
+🧑‍💻 Desarrollado 100% por Samuel Vásquez
+🚀 Descripción del Proyecto
 
-# Backend Anvic
+Este proyecto es una aplicación backend creada para realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) de Pokemones, conectándose a una API propia y estructurada con buenas prácticas.
 
-Backend para la aplicacion/Ecomers Anvic tienda de tecnologia y accesorios
+Fue desarrollada desde cero completamente por mí, incluyendo la configuración del servidor, las rutas, los controladores y la conexión a la base de datos.
 
-- [Anvic Accesorios](https://anvicaccesorios.com/)
+⚙️ Tecnologías Utilizadas
 
-![Logo](https://anvicaccesorios.com/images/Inicio/logo%20anvic.jpg)
+🟢 Node.js – Entorno de ejecución principal
 
-## Autores
+⚡ Express.js – Framework backend
 
-### Coders
+🗄️ MySQL – Base de datos relacional
 
-- [@Vazz2004](https://github.com/Vazz2004)
-- [@DD150602](https://github.com/DD150602)
-- [@Kilerwin](https://github.com/Kilerwin)
+🔄 API REST – Para gestionar las operaciones CRUD
 
-## Usado por
+🧠 JavaScript – Lenguaje principal
 
-Este proyecto es utilizado por las siguientes empresas:
+🧰 Postman – Para probar y documentar las peticiones
 
-- [ANVIC ACCESORIOS](https://www.instagram.com/anvic.accesorios/)
+🎯 Características Principales
 
-## Contribuciones
+✅ CRUD completo de Pokemones:
 
-Revisa [CONTRIBUTING.md](https://github.com/Vazz2004/back-end-anvic/blob/main/CONTRIBUTING.md) para saber como contribuir.
+🐣 Crear nuevo Pokémon
 
-## Contribuyentes
+📋 Listar todos los Pokemones
 
-[![@Vazz2004](https://github.com/Vazz2004.png?size=50)](https://github.com/Vazz2004)
-[![@DD150602](https://github.com/DD150602.png?size=50)](https://github.com/DD150602)
-[![@Kilerwin](https://github.com/Kilerwin.png?size=50)](https://github.com/Kilerwin)
-[![@dfeo](https://github.com/dfeo.png?size=50)](https://github.com/dfeo)
+✏️ Actualizar información existente
+
+❌ Eliminar Pokemones
+
+✅ Arquitectura limpia y modular
+✅ Código documentado y fácil de mantener
+✅ Conexión segura con MySQL

@@ -1,0 +1,14 @@
+# Ignore all files and directories in node_modules/
+node_modules/
+
+# Ignore all .env files
+.env
+
+# Ignore all package-lock.json files
+package-lock.json
+
+# Ignore all pnpm-lock.yaml files
+pnpm-lock.yaml
+
+# Ignore a specific file models/connection_dabase.js
+models/connection_dabase.js
